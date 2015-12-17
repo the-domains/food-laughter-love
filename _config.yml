@@ -1,0 +1,28 @@
+name: Food Laughter Love
+favicon: null
+layout_spectrum: 0.17540593165904284
+typography_spectrum: 0.3437755983322859
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6714916487690061
+  lightness: 0.018308602506294847
+  saturation: 0.49703487078659236
+  rhythmicContrast: 0.1344496973324567
+purpose: []
