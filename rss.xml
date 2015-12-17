@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Food Laughter Love]]></title>
         <description><![CDATA[Food Laughter Love]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/food-laughter-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 18:36:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 18:36:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/food-laughter-love/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[16 Great Diffuser Blends]]></title>
+            <description><![CDATA[<article><h1>16 Great Diffuser Blends</h1><p>We’ve been working on a side project…creating a space for all fabulous essential oil blends we use and want to share!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31a3e4d7408df914648f592c3d9c2c229bb6310c.jpg"></article>]]></description>
+            <link>https://foodlaughterlove.files.wordpress.com/2015/11/img_0278.jpg</link>
+            <guid isPermaLink="false">45415604-0227-4406-9d3c-d8c150278854</guid>
+            <pubDate>Thu, 17 Dec 2015 18:36:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[16 Great Diffuser Blends]]></title>
             <description><![CDATA[<article><h1>16 Great Diffuser Blends</h1><p>We’ve been working on a side project…creating a space for all fabulous essential oil blends we use and want to share!</p></article>]]></description>
-            <link>undefined16-great-diffuser-blends/index.html</link>
+            <link>https://thegrid.ai/food-laughter-love/16-great-diffuser-blends/index.html</link>
             <guid isPermaLink="false">3a07fac5-c87c-4f87-9f2b-68a20bd44d57</guid>
             <pubDate>Thu, 17 Dec 2015 18:36:05 GMT</pubDate>
         </item>
