@@ -1,24 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://foodlaughterlove.files.wordpress.com/2015/11/img_0278.jpg'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T18:36:05.522Z'
-dateModified: '2015-12-17T18:34:37.425Z'
-title: 16 Great Diffuser Blends
+datePublished: '2015-12-17T18:36:05.583Z'
+dateModified: '2015-12-17T18:35:54.525Z'
 author: []
+title: 16 Great Diffuser Blends
 authors: []
 publisher:
-  name: null
-  domain: null
+  name: foodlaughterlove.files.wordpress.com
+  domain: foodlaughterlove.files.wordpress.com
   url: null
   favicon: null
 sourcePath: _posts/2015-12-17-16-great-diffuser-blends.md
 published: true
-url: 16-great-diffuser-blends/index.html
+_context: 'http://schema.org'
 _type: Article
 
 ---
@@ -29,3 +30,4 @@ We will be adding them here and you can always follow us on Instagram
 @eoblends
 
 .  Happy Oiling my dears!
+![](https://foodlaughterlove.files.wordpress.com/2015/11/img_0278.jpg)
